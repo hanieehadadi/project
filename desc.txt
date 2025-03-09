@@ -1,0 +1,6 @@
+this project is about machine learning 
+we used 3 part for our code 
+part one is preproccesing 
+part two is develop ml alg
+part three is evaluation
+
