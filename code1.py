@@ -1,4 +1,3 @@
-classs tree:
-def init:
-    سنتسن
-x=5
+def show_menue(dict):
+    for key in dict.item:
+        print({key}/n)
